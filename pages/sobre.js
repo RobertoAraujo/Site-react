@@ -1,5 +1,10 @@
 function Sobre() {
-    return <div>Sobre a empresa</div>
-  }
+    return ( 
+        <div>
+          Menu <br />
+          Sobre 
+          </div>
+        );
+      }
   
   export default Sobre
