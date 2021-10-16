@@ -1,7 +1,8 @@
+import Menu from "../componetes/menu";
 function HomePage() {
     return ( 
     <div>
-      Menu <br />
+     <Menu></Menu>
       Home 
       </div>
     );
